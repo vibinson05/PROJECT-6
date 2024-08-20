@@ -10,7 +10,7 @@ A simple weather application built using HTML, CSS, and JavaScript that fetches 
 
 ## Demo
 
-You can view a live demo of the app [here](#).
+You can view a live demo of the app [here](https://skymetrix.netlify.app/).
 
 ## Screenshots
 
