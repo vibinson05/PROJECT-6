@@ -16,9 +16,3 @@ You can view a live demo of the app [here](https://skymetrix.netlify.app/).
 
 ![Weather App Screenshot](assets/output.png)
 
-## Installation
-
-1. Clone the repository:
-
-   ```bash
-   git clone https://github.com/vibinson05/PROJECT-6.git
