@@ -14,7 +14,7 @@ You can view a live demo of the app [here](#).
 
 ## Screenshots
 
-![Weather App Screenshot](asset/output.png)
+![Weather App Screenshot](assets/output.png)
 
 ## Installation
 
